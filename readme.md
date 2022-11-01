@@ -19,13 +19,18 @@ AUC计算方法：通过直接统计预测label的逆序对数来实现，在有
 
 ## 二、团队方案
 
-**【时间】**2022年9月14日-2022年10月28日。
 
-**【排名】4**(A榜)/**5**(B榜)。
+**【时间】** 2022年9月14日-2022年10月28日。
 
-**【代码】**[nengwp/vloong-anomaly-detection-top5 (github.com)](https://github.com/nengwp/vloong-anomaly-detection-top5)
+**【排名】 4** (A榜)/**5**(B榜)。
 
-**【团队】**团队 三人行 共三人：loving灬漠然丶Sqhttwl、Alvin.ai。
+**【代码】** [nengwp/vloong-anomaly-detection-top5 (github.com)](https://github.com/nengwp/vloong-anomaly-detection-top5)
+
+
+**【团队】** 团队 三人行 共三人：loving灬漠然丶Sqhttwl、Alvin.ai。
+
+**【解说】** [vLoong新能源电池异常检测赛 第5名方案分享 (含其他前排方案)](https://mp.weixin.qq.com/s/GhAgG_tfEmf3k4Z3hKh4Aw)
+
 
 ![图3：比赛排行榜](img/rank.png)
 
